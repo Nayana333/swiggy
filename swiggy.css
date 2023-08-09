@@ -1,0 +1,500 @@
+
+		body{
+			margin:0;
+			padding: 0;
+
+		}
+		.fpage{
+			width:1263.33px;
+			height:517px;
+			background-color: transparent;
+			position: relative;
+			display: flex;
+			
+		}
+		.afpage{
+			width: 658px;
+    		height: 469px;
+   		 	background-color:transparent;
+    		margin-left: 48px
+
+
+		}
+		.mainlogo{
+		width: 185px;
+      	height: 57px;
+        padding-top: 51px;
+        padding-left: 1px;
+		}
+		.header{
+			width:658px;
+			height: 23%;
+			background-color:transparent;
+			display:flex;
+
+
+		}
+		.login{
+			width: 96px;
+   			height: 40px;
+    		color: black;
+    		background-color: transparent;
+    		font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    		border-color: transparent;
+    		font-size: 16px;
+    		font-weight: bold;
+    		position: absolute;
+    		left: 32%;
+    		top: 11%;
+		}
+		.signup{
+		width: 106px;
+    height: 39px;
+    color: white;
+    background-color: black;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    border-color: transparent;
+    font-size: 16px;
+    font-weight: bold;
+    position: absolute;
+    left: 40%;
+    top: 11%;
+		}
+		.late{
+			color:#282c3f;
+			font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+			font-size:40px;
+			font-weight:600px;
+			margin-top:67px;
+		}
+		.order{
+			font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+			font-size:24px;
+			color:#686b78;
+			position: absolute;
+    		top: 206px;
+		}
+		.location{
+			width:470px;
+			height: 59px;
+			background-color:transparent;
+			border-color: #00000045;
+			border-width: 1px;
+			position: absolute;
+    		top: 309px;
+
+
+
+		}
+		#loctext{
+			font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    font-size: 17px;
+    margin-left: 53px;
+    padding: 20px;
+    width: 459px;
+    line-height: 34px;
+
+		}
+		#locateme{
+			width:101px;
+			height: 40px;
+			border-color: transparent;
+			font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+			color:#686b78;
+			font-size: 14px;
+			background-color: transparent;
+   			position: absolute;
+    		left: 407px;
+    		margin-top:319px;
+}
+	#locicon{
+		width: 13px;
+    height: 14px;
+    position: absolute;
+    left: 404px;
+    top: 332px;
+    
+		
+	}
+	.find{
+		width: 140px;
+    	height: 59px;
+    	background-color: #fc8019;
+    	color: white;
+    	position: absolute;
+    	left: 511px;
+    	top: 297px;
+    	margin-top: 12px;
+    	font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    	border-color: transparent;
+    	font-size:16px;
+    	font-weight: bold;
+}
+.popular{
+	font-weight:400;
+	font-size: 15px;
+	color:#a9abb2;
+	font-family:ProximaNova,arial,Helvetica Neue,sans-serif;
+	margin-top: 397px;
+	position: absolute;
+	left: 51px;
+}
+#gray{
+	font-size:14px;
+	color:#686b78;
+	font-family:ProximaNova,arial,Helvetica Neue,sans-serif;
+
+}
+.lightgray{
+	font-size: 14px;
+	color:#93959f;
+	font-family:ProximaNova,arial,Helvetica Neue,sans-serif;
+
+}
+
+.spage{
+	width:100%;
+	height:403px;
+	background-color: #2b1e16;
+	margin:0;
+	display:flex;
+	text-align: center;
+}	
+.scontainer1{
+	width: 292px;
+    height: 352px;
+    margin-left: 5%;
+    background-color:transparent;
+}
+.scontainer2{
+	width: 292px;
+    height: 352px;
+    margin-left:12%;
+    background-color: transparent;
+}
+.scontainer3{
+	width: 292px;
+    height: 352px;
+    margin-left:8%;
+    background-color:transparent;
+}
+.lunch{
+	width:550px;
+	height:517px;
+	background-color:transparent;
+}
+#lunch{
+	width:100%;
+height: 100%;
+
+}
+#img{
+	width: 38%;
+    height: 62%;
+}
+#sfont{
+	font-size:19px;
+	color:white;
+	font-family:ProximaNova,arial,Helvetica Neue,sans-serif;
+
+
+}
+#s2font{
+	font-size: 14px;
+	color: #e0cbc1;
+	font-family:ProximaNova,arial,Helvetica Neue,sans-serif;
+	position: relative;
+
+}
+.tpage{
+	width:1200px;
+	height: 570px;
+	background-color:transparent;
+	position: relative;
+
+}
+#phone1{
+	width: 31%;
+    position: absolute;
+    left: 41%;
+    bottom: 96px
+}
+#phone2{
+	width: 31%;
+    position: absolute;
+    left: 69%;
+    margin-top:96px;
+}
+#play{
+	
+	position: absolute;
+    left: 43px;
+    top: 351px
+}
+#app{
+	position: absolute;
+    left: 254px;
+    top: 351px
+}
+.resturent{
+	font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    font-size: 40px;
+    color: #282c3f;
+    margin-left:38px;
+    width: 314px;
+    position: absolute;
+    top: 100px;
+
+
+}
+.orderfrom{
+	width:335px;
+	color:#7e808c;
+	background-color: transparent;
+	height:30%;
+	font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+	position: absolute;
+    left: 49px;
+    width: 50%;
+	font-size: 17px;
+	line-height:22.3px
+	px;
+
+}
+.footer{
+	width:100%;
+	height:80%;
+    background-color: black;
+    display:flex;
+    position: relative;
+}
+.afooter{
+	width: 28%;
+    height: 71%;
+    background-color: black;
+    position: absolute;
+    left: 45px;
+    top:9%;
+
+}
+.bfooter
+{
+	width: 28%;
+    height: 71%;
+    background-color: black;
+    position: absolute;
+    left: 55px;
+    top:9%;
+    margin-left:335px;
+
+
+}
+.cfooter
+{
+	width: 28%;
+    height: 71%;
+    background-color: black;
+    position: absolute;
+    left: 55px;
+    top:9%;
+    margin-left:50%;
+
+}
+#inside{
+	color:gray;
+	font-size:14px;
+	font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+
+	
+}
+ul{
+	color: #fff;
+	line-height: 31.4px;
+	font-size:15px;
+	font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+	list-style: none;
+	margin-left:-37px;
+
+
+}
+#play1{
+	
+	position: absolute;
+    left: 82%;
+    top: 139px
+}
+#app1{
+	position: absolute;
+    left: 82%;
+    top: 58px
+}
+.gray{
+	width:100%;
+	height:1px;
+	background-color: gray;
+
+}
+.footer2{
+	width:100%;
+	height:80%;
+    background-color: black;
+    display:flex;
+    position: relative;
+}
+.a2footer{
+	width: 28%;
+    height: 71%;
+    background-color: black;
+    position: absolute;
+    left: 45px;
+    top: 9%;
+
+}
+.b2footer
+{
+	width: 14%;
+    height: 71%;
+    background-color: black;
+    position: absolute;
+    left: -5px;
+    top: 9%;
+    margin-left: 335px;
+
+
+}
+.c2footer
+{
+	width: 23%;
+    height: 71%;
+    background-color: black;
+    position: absolute;
+    left: 320px;
+    top: 9%;
+    margin-left: 50%;
+
+}
+.d2footer
+{
+	width: 28%;
+    height: 71%;
+    background-color: black;
+    position: absolute;
+    left: -52px;
+    top: 9%;
+    margin-left: 50%;
+
+}
+#inside{
+	color:gray;
+	font-size:14px;
+	font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+
+	
+}
+ul{
+	color: #fff;
+	line-height: 31.4px;
+	font-size:15px;
+	font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+	list-style: none;
+	margin-left:-37px;
+}
+.lastf1{
+	width:100%;
+	height:15%;
+	background-color:black;
+	padding: 1px;
+
+}
+#inside2{
+	color:gray;
+	font-size:14px;
+	font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+	padding-left:45px;
+		}
+	.about{
+		color:white;
+		font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+		font-size: 14px;
+		padding-left: 45px;
+		padding-top: ;
+	}
+	#explore{
+
+		text-align:right;
+		margin-right:25px;
+		margin-top: -35px;
+		
+	}
+	.lastdiv{
+		width:100%;
+		height:90px;
+		background-color:black;
+		display:flex;
+		position: relative;
+	}
+	.swig{
+	width: 148px;
+    height: 41px;
+    position: absolute;
+    left:41px;
+    top: 16px;    
+
+}
+	
+	.center{
+		width: 148px;
+    height: 41px;
+    
+   width: 148px;
+    height: 41px;
+   
+    position: absolute;
+    left:555px;
+    top: 16px;
+	}
+	.end{
+		width: 139px;
+    height: 38px;
+    background-color:black;
+    position: absolute;
+    right: 29px;
+    top: 32px;
+    display: flex;
+    
+}
+#swig{
+	width: 177px;
+    height: 49px;
+}
+#tswig{
+	font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+	color: white;
+	font-size: 20px;
+}
+#micons{
+	width: 25px;
+	height: 25px;
+}
+#m2icons{
+	width: 25px;
+	height: 25px;
+	margin-left: 5px;
+}
+#m3icons{
+	width: 25px;
+	height: 25px;
+	margin-left:14px;
+
+}
+#m4icons{
+	width: 25px;
+	height: 25px;
+	margin-left:13px;
+
+}
+.cities{
+	width: 200px;
+	height: 10%;
+	background-color: lightgray;
+}
